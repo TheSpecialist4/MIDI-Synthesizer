@@ -14,7 +14,7 @@ To build from source, the easiest way is to download the repository (`git clone`
 
 ## Virtual Piano
 To use virtual piano, select that option and load the scales.csv file using the 'Load' button to load all the music scales.
-[alt keyboard](Images/keyboard.png)
+![alt keyboard](Images/keyboard.png)
 
 ### Note
 There is no inherent sound output from the speakers as it is meant to pass MIDI data through the serial port to a special piece of hardare built as a part of this project. However, option to play sound through the speakers will be added soon.
